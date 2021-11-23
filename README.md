@@ -72,6 +72,6 @@ Describe any challenges encountered while doing the work
 
 Main challenges I faced with this work is the uploading of my GIFs. I provided an example of what the GIFs turn out to when I upload them, however after trying both GiphyCapture and LICEcap, none of them are showing my screen, only showing the screensaver of my computer. It shows my cursor and usage of clicking on the links and accesses however it is not showing what it is I am actually doing. I have been trying to fix it and download other apps and nothing is working for me. This work is easy to show however I am unsure why they are not capturing the tab and just the screen behind it.
 
-## *MY GIFs ARE NOT SHOWING THE TAB I AM TRYING TO RECORD, IT ONLY SHOWS MY SCREENSAVER AND MY CURSOR AS IF IT WAS SHOWING MY OPEN TAB, DO NOT KNOW HOW TO FIX THIS BUT I HAVE BEEN TRYING AND NOTHING IS WORKING.
+* MY GIFs ARE NOT SHOWING THE TAB I AM TRYING TO RECORD, IT ONLY SHOWS MY SCREENSAVER AND MY CURSOR AS IF IT WAS SHOWING MY OPEN TAB, DO NOT KNOW HOW TO FIX THIS BUT I HAVE BEEN TRYING AND NOTHING IS WORKING.
 
-## ex: ![Red GIF](https://user-images.githubusercontent.com/41569042/142978977-cfee8a22-cfcf-4ab4-af0f-274171f8bace.gif)
+ex: ![Red GIF](https://user-images.githubusercontent.com/41569042/142978977-cfee8a22-cfcf-4ab4-af0f-274171f8bace.gif)
